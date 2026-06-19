@@ -1,0 +1,23 @@
+========================================================
+          BÁO CÁO KẾT QUẢ PHÂN TÍCH DOANH THU           
+========================================================
+
+[1]. THỐNG KÊ TỔNG QUAN
+- Tổng số ngày phân tích: 28 ngày
+- Tổng doanh thu: 583,500,000 VNĐ
+- Doanh thu trung bình/ngày: 20,839,286 VNĐ
+
+[2]. KỶ LỤC BÁN HÀNG
+- Sản phẩm doanh thu cao nhất: Laptop Gaming
+- Bán vào ngày: 30/05/2026
+- Mức doanh thu đạt: 80,000,000 VNĐ
+
+[3]. PHÂN TÍCH TĂNG TRƯỞNG (Nửa đầu tháng vs Nửa cuối tháng)
+- Doanh thu nửa đầu kỳ: 216,000,000 VNĐ
+- Doanh thu nửa cuối kỳ: 367,500,000 VNĐ
+-> Đánh giá trạng thái: TĂNG TRƯỞNG TỐT (+70.14%)
+
+[4]. DỰ BÁO XU HƯỚNG TƯƠNG LAI
+-> Nhận định từ hệ thống: Đang trên đà TĂNG TRƯỞNG. Tiếp tục duy trì phát huy!
+
+========================= HẾT ==========================
