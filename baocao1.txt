@@ -1,7 +1,4 @@
-========================================================
           BÁO CÁO KẾT QUẢ PHÂN TÍCH DOANH THU           
-========================================================
-
 [1]. THỐNG KÊ TỔNG QUAN
 - Tổng số ngày phân tích: 28 ngày
 - Tổng doanh thu: 583,500,000 VNĐ
@@ -20,4 +17,4 @@
 [4]. DỰ BÁO XU HƯỚNG TƯƠNG LAI
 -> Nhận định từ hệ thống: Đang trên đà TĂNG TRƯỞNG. Tiếp tục duy trì phát huy!
 
-========================= HẾT ==========================
+=== HẾT ===
